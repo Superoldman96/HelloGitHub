@@ -49,7 +49,7 @@ Click the **「Table of Contents」** icon at the top-right corner to open the n
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/109/950140488.png' style="max-width:80%; max-height=80%;"></img></p>
 
-9、[bitplay](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/aculix/bitplay)：在线播放视频资源的 Web 应用。该项目是用 Go 语言开发的在线视频流媒体应用，让用户能够直接在线播放视频资源。它支持通过磁力链接或 .torrent 文件流式传输高清视频，以及实时字幕转换和 Docker 部署。
+9、[bitplay](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/aculix/bitplay)：. None
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/109/968812883.png' style="max-width:80%; max-height=80%;"></img></p>
 
